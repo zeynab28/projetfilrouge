@@ -206,6 +206,6 @@ class __TwigTemplate_c39a6f95d36414d4cde19bbd8e4443b4da0c050ffe50a5fec979ea7f7d9
     {% endfor %}
     </tbody>
 </table>
-", "@Twig/Exception/logs.html.twig", "/home/seynabou/Documents/NeldamMoney/vendor/symfony/twig-bundle/Resources/views/Exception/logs.html.twig");
+", "@Twig/Exception/logs.html.twig", "/home/ibrahima/Documents/projetfilrouge/vendor/symfony/twig-bundle/Resources/views/Exception/logs.html.twig");
     }
 }

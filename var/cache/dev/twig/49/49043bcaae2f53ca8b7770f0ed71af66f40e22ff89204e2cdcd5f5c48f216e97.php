@@ -136,6 +136,6 @@ class __TwigTemplate_3db76bca2fdedc646bc3cf7ff4f294f2d1cd6b1971960c4d3f86d7aafc6
     </ul>
 </div>
 {% endblock %}
-", "liste/index.html.twig", "/home/seynabou/Documents/NeldamMoney/templates/liste/index.html.twig");
+", "liste/index.html.twig", "/home/ibrahima/Documents/projetfilrouge/templates/liste/index.html.twig");
     }
 }

@@ -143,6 +143,6 @@ class __TwigTemplate_f4c36102273a7a74dff37a2345a24a2c24cc9645ef0ee024b2f9266138c
         {% block javascripts %}{% endblock %}
     </body>
 </html>
-", "base.html.twig", "/home/seynabou/Documents/NeldamMoney/templates/base.html.twig");
+", "base.html.twig", "/home/ibrahima/Documents/projetfilrouge/templates/base.html.twig");
     }
 }

@@ -59,6 +59,6 @@ class __TwigTemplate_83f2edba42dc2c088828a962dadbdfaf7f5fb6918129644b3d778e37ac4
     {
         return new Source("<?php \$symbol = false !== \$symbol ? (\$symbol ? ' '.\$symbol : ' %') : '' ?>
 <?php echo \$view['form']->block(\$form, 'form_widget_simple', ['type' => isset(\$type) ? \$type : 'text']).\$view->escape(\$symbol) ?>
-", "@Framework/Form/percent_widget.html.php", "/home/seynabou/Documents/NeldamMoney/vendor/symfony/framework-bundle/Resources/views/Form/percent_widget.html.php");
+", "@Framework/Form/percent_widget.html.php", "/home/ibrahima/Documents/projetfilrouge/vendor/symfony/framework-bundle/Resources/views/Form/percent_widget.html.php");
     }
 }

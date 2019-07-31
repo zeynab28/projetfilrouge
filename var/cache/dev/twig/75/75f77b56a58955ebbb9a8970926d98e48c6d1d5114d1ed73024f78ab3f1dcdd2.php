@@ -96,6 +96,6 @@ class __TwigTemplate_5cf1181db9fc770db989ceb0d8e7fde7f2a0aa4c31977110df0728826f9
 {{ include('@Twig/Exception/traces.txt.twig', { exception: e }, with_context = false) }}
 
 {% endfor %}
-", "@Twig/Exception/exception.txt.twig", "/home/seynabou/Documents/NeldamMoney/vendor/symfony/twig-bundle/Resources/views/Exception/exception.txt.twig");
+", "@Twig/Exception/exception.txt.twig", "/home/ibrahima/Documents/projetfilrouge/vendor/symfony/twig-bundle/Resources/views/Exception/exception.txt.twig");
     }
 }

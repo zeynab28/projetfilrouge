@@ -165,6 +165,6 @@ class __TwigTemplate_dec21249598516d2405fa60a1242e65de7f18fdaa343e2c4c4f08fa9b8b
         {%- endfor -%}
     </pre>
 {% endif %}
-", "@Doctrine/Collector/explain.html.twig", "/home/seynabou/Documents/NeldamMoney/vendor/doctrine/doctrine-bundle/Resources/views/Collector/explain.html.twig");
+", "@Doctrine/Collector/explain.html.twig", "/home/ibrahima/Documents/projetfilrouge/vendor/doctrine/doctrine-bundle/Resources/views/Collector/explain.html.twig");
     }
 }

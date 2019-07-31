@@ -203,6 +203,6 @@ class __TwigTemplate_4d462eaebb390975571ffe2afc746c1f1b5058310ef628414a72575cca2
         {{ include('@Twig/base_js.html.twig') }}
     </body>
 </html>
-", "@Twig/layout.html.twig", "/home/seynabou/Documents/NeldamMoney/vendor/symfony/twig-bundle/Resources/views/layout.html.twig");
+", "@Twig/layout.html.twig", "/home/ibrahima/Documents/projetfilrouge/vendor/symfony/twig-bundle/Resources/views/layout.html.twig");
     }
 }
